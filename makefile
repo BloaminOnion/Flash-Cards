@@ -1,2 +1,2 @@
-makecards : FlashCard.o
-	g++ FlashCard.cpp -o makecards
+cards : FlashCard.o
+	g++ FlashCard.cpp -o cards
